@@ -14,7 +14,7 @@ Diese Liste kann gerne erweitert werden!
 
 ## Talks (Videos)
 
-* Belshaw - The Essential Elements of Digital Literacies (Startklar?! March 2018) - http://literaci.es/startklar
+* Belshaw - The Essential Elements of Digital Literacies (Startklar?! March 2018) - http://literaci.es/startklar [Periscope von Torsten Larbig, vielen Dank!]
 * Belshaw - http://literaci.es/infrastructure-skills-mindsets (audio only)
 * Belshaw - The Essential Elements of Digital Literacies (WCCE, July 2017) http://literaci.es/WCCE2017 (audio only)
 
