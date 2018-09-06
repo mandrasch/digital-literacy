@@ -3,15 +3,20 @@ Quellen, die ich im Kontext meiner Masterarbeit zu „Digital Literacy“ gesamm
 
 Diese Liste kann gerne erweitert werden!
 
-## Einführendes Material
+## Einführendes Material (Text)
 
 * https://christianfriedrich.org/deutsch/wenn-offen-die-antwort-ist-was-ist-dann-die-frage/
 
-## Vertiefte Auseinandersetzung
+## Vertiefte Auseinandersetzung (Text)
 
-* https://dmlcentral.net/wp-content/uploads/files/doug-belshaw-edd-thesis-final.pdf
+* Akademisch: https://dmlcentral.net/wp-content/uploads/files/doug-belshaw-edd-thesis-final.pdf (Herleitung der 8C)
+* E-Book: 
 
-## Videos
+## Talks (Videos)
+
+* Belshaw - The Essential Elements of Digital Literacies (Startklar?! March 2018) - http://literaci.es/startklar
+* Belshaw - http://literaci.es/infrastructure-skills-mindsets (audio only)
+* Belshaw - The Essential Elements of Digital Literacies (WCCE, July 2017) http://literaci.es/WCCE2017 (audio only)
 
 
 ## Podcast
