@@ -6,6 +6,7 @@ Diese Liste kann gerne erweitert werden!
 ## Einführendes Material (Text)
 
 * https://christianfriedrich.org/deutsch/wenn-offen-die-antwort-ist-was-ist-dann-die-frage/
+* *(Noch nicht gelesen)* The Essential Elements of Digital Literacies (TER Podcast Review) - https://readwriterespond.com/2015/03/the-essential-elements-of-digital-literacies-ter-podcast-review/ 
 
 ## Vertiefte Auseinandersetzung (Text)
 
