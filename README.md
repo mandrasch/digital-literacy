@@ -29,3 +29,6 @@ Diese Liste kann gerne erweitert werden!
 ### Studentische Forschungsarbeiten
 
 ## (Online-)Communities, Foren, Mailinglisten
+
+## Sonstiges 
+* https://laura.makes.org/thimble/web-literacy-learning-pathways
