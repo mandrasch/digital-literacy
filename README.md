@@ -1,5 +1,5 @@
 # Digital Literacy / Digital Literac*ies*
-Quellen, die ich im Kontext meiner Masterarbeit zu „Digital Literacy“ gesammelt habe. Willkommen in der Fuzzy world of education! Liste ist freigegeben als [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de), falls da überhaupt urheberrechtlicher Schutz besteht. ;-)
+Quellen, die ich im Kontext meiner Masterarbeit zu „Digital Literacies“ (Belshaw) gesammelt habe. Willkommen in der Fuzzy world of education! Liste ist freigegeben als [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de), falls da überhaupt urheberrechtlicher Schutz besteht. ;-)
 
 Diese Liste kann gerne erweitert werden!
 
@@ -13,8 +13,11 @@ Diese Liste kann gerne erweitert werden!
 
 * Akademisch, Thesis: https://dmlcentral.net/wp-content/uploads/files/doug-belshaw-edd-thesis-final.pdf (Herleitung der 8 Elemente (8C), mit Auswahl des Pragmatismus als philosophische Grundlage, McLuhans Tetraeder-Konzept sowie dem Spectrum of Ambuguity)
 
-### Deutschsprachige Auseinandersetzung mit Literacy
+### Deutschsprachige Auseinandersetzung mit (Digital) Literacy
+
+#### Ohne expliziten Bezug zu Belshaw
 * Manuela Pietraß https://www.unibw.de/hum-bildungswissenschaft/professuren/medienbildung/personen/prof-dr-manuela-pietrass
+* Kerres https://learninglab.uni-due.de/sites/default/files/kerres4m%C3%BCnster_0.pdf
 
 ## Talks (Videos)
 
