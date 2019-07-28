@@ -1,6 +1,10 @@
 # Digital Literacy / Digital Literac*ies*
 Quellen, die ich im Kontext meiner Masterarbeit zu „Digital Literacies“ (Belshaw) gesammelt habe. Willkommen in der Fuzzy world of education! Liste ist freigegeben als [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de), falls da überhaupt urheberrechtlicher Schutz besteht. ;-)
 
+UPDATE:
+
+https://blog.matthias-andrasch.de/2019/medienkompetenz-medienbildung-oder-digital-literacy-cc0/
+
 Diese Liste kann gerne erweitert werden!
 
 ## Einführendes Material (Text)
